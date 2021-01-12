@@ -1,2 +1,1 @@
-# Operadores-Relac-Logicos
-Programa que mostra os operadores relacionais e lógicos do Javascript e seus comportamentos.
+Program that execute the relational and logical operators of Javascript and how they behave.
